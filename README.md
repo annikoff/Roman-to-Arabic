@@ -1,4 +1,4 @@
 Roman-to-Arabic
 ===============
 
-Roman Arabic Numerals Converter
+Roman Arabic Numerals Converter written in "Go" language
